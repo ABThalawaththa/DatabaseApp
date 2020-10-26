@@ -29,6 +29,7 @@
        <mapping class="com.DB.entities.Ward"></mapping>
 
 
+		<!-- Added a comment -->
         <!-- DB schema will be updated if needed -->
         <!-- <property name="hibernate.hbm2ddl.auto">update</property> -->
     </session-factory>
